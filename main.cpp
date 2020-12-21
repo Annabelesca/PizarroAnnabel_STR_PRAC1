@@ -1,7 +1,6 @@
 #include "mbed.h"
 #include <cstdio>
 #include <cstdlib>
-#include <string>
 #include "rtos.h"
 
 
